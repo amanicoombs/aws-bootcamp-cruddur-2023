@@ -2,7 +2,7 @@
 
 Building Cruddur a micro blogging app. A microservice app.
 
-Week 0 assignment is to create Architecture diagram
+Week 0 assignment is to create Architecture diagram "Napkin Drawing"
 
 Front end- Javascript using react
 Backend - Python using flask
