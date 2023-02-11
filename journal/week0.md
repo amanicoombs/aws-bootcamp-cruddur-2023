@@ -10,4 +10,6 @@ Backend - Python using flask
 
 What is good architecture?
 
-Assess requirements, risks, and constraints
+Assess requirements, risks, assumptions and constraints.
+
+SPoF - Single point of failure
